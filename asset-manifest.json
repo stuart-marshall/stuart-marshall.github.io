@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.c177acf7.chunk.css",
-    "main.js": "/static/js/main.faddc888.chunk.js",
-    "main.js.map": "/static/js/main.faddc888.chunk.js.map",
+    "main.js": "/static/js/main.fb522aa0.chunk.js",
+    "main.js.map": "/static/js/main.fb522aa0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9f8ebd13.js",
     "runtime-main.js.map": "/static/js/runtime-main.9f8ebd13.js.map",
-    "static/js/2.45df50f8.chunk.js": "/static/js/2.45df50f8.chunk.js",
-    "static/js/2.45df50f8.chunk.js.map": "/static/js/2.45df50f8.chunk.js.map",
+    "static/js/2.9fe392fa.chunk.js": "/static/js/2.9fe392fa.chunk.js",
+    "static/js/2.9fe392fa.chunk.js.map": "/static/js/2.9fe392fa.chunk.js.map",
     "static/js/3.9478d6b5.chunk.js": "/static/js/3.9478d6b5.chunk.js",
     "static/js/3.9478d6b5.chunk.js.map": "/static/js/3.9478d6b5.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.c177acf7.chunk.css.map": "/static/css/main.c177acf7.chunk.css.map",
-    "static/js/2.45df50f8.chunk.js.LICENSE.txt": "/static/js/2.45df50f8.chunk.js.LICENSE.txt",
+    "static/js/2.9fe392fa.chunk.js.LICENSE.txt": "/static/js/2.9fe392fa.chunk.js.LICENSE.txt",
+    "static/media/big_robot_and_console.344ba9ab.jpg": "/static/media/big_robot_and_console.344ba9ab.jpg",
+    "static/media/big_robot_isometric_and_above.e6d8bd8b.jpg": "/static/media/big_robot_isometric_and_above.e6d8bd8b.jpg",
+    "static/media/bthere_system_architecture_v2.dcd534a9.jpg": "/static/media/bthere_system_architecture_v2.dcd534a9.jpg",
     "static/media/hacker-rank-1.74b3308d.png": "/static/media/hacker-rank-1.74b3308d.png",
     "static/media/hacker-rank-2.7968ab82.png": "/static/media/hacker-rank-2.7968ab82.png",
     "static/media/hacker-rank-3.7c67b4c8.png": "/static/media/hacker-rank-3.7c67b4c8.png",
@@ -23,12 +26,13 @@
     "static/media/stuart-marshall-2021-contributions.d7f0fd00.png": "/static/media/stuart-marshall-2021-contributions.d7f0fd00.png",
     "static/media/stuart-marshall-bthere-2019-contributions.a5bc2de2.png": "/static/media/stuart-marshall-bthere-2019-contributions.a5bc2de2.png",
     "static/media/stuart-marshall-bthere-2020-contributions.52c7d251.png": "/static/media/stuart-marshall-bthere-2020-contributions.52c7d251.png",
-    "static/media/stuart-marshall-bthere-2021-contributions.3fbd6a87.png": "/static/media/stuart-marshall-bthere-2021-contributions.3fbd6a87.png"
+    "static/media/stuart-marshall-bthere-2021-contributions.3fbd6a87.png": "/static/media/stuart-marshall-bthere-2021-contributions.3fbd6a87.png",
+    "static/media/stuart_lilac.ae8c9589.jpg": "/static/media/stuart_lilac.ae8c9589.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9f8ebd13.js",
-    "static/js/2.45df50f8.chunk.js",
+    "static/js/2.9fe392fa.chunk.js",
     "static/css/main.c177acf7.chunk.css",
-    "static/js/main.faddc888.chunk.js"
+    "static/js/main.fb522aa0.chunk.js"
   ]
 }
