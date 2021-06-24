@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c177acf7.chunk.css",
-    "main.js": "/static/js/main.53b94602.chunk.js",
-    "main.js.map": "/static/js/main.53b94602.chunk.js.map",
+    "main.js": "/static/js/main.9ccfb780.chunk.js",
+    "main.js.map": "/static/js/main.9ccfb780.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9f8ebd13.js",
     "runtime-main.js.map": "/static/js/runtime-main.9f8ebd13.js.map",
     "static/js/2.9fe392fa.chunk.js": "/static/js/2.9fe392fa.chunk.js",
@@ -31,13 +31,12 @@
     "static/media/stuart-marshall-bthere-2019-contributions.a5bc2de2.png": "/static/media/stuart-marshall-bthere-2019-contributions.a5bc2de2.png",
     "static/media/stuart-marshall-bthere-2020-contributions.52c7d251.png": "/static/media/stuart-marshall-bthere-2020-contributions.52c7d251.png",
     "static/media/stuart-marshall-bthere-2021-contributions.3fbd6a87.png": "/static/media/stuart-marshall-bthere-2021-contributions.3fbd6a87.png",
-    "static/media/stuart_lilac.178b0281.jpg": "/static/media/stuart_lilac.178b0281.jpg",
-    "static/media/stuart_siding.fb1a4716.jpg": "/static/media/stuart_siding.fb1a4716.jpg"
+    "static/media/stuart_lilac.178b0281.jpg": "/static/media/stuart_lilac.178b0281.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9f8ebd13.js",
     "static/js/2.9fe392fa.chunk.js",
     "static/css/main.c177acf7.chunk.css",
-    "static/js/main.53b94602.chunk.js"
+    "static/js/main.9ccfb780.chunk.js"
   ]
 }
